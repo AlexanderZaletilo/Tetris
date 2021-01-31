@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourсе/block.wav</file>
+        <file>resourсе/fall.wav</file>
+        <file>resourсе/game_over.wav</file>
+        <file>resourсе/lines.wav</file>
+        <file>resourсе/move.wav</file>
+        <file>resourсе/Tetris1.wav</file>
+        <file>resourсе/Tetris8bit.wav</file>
+        <file>resourсе/TetrisDrums.wav</file>
+        <file>resourсе/TetrisMix.wav</file>
+    </qresource>
+</RCC>
